@@ -17,7 +17,8 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: We Mean Well
-textline: I'm Halping is a gaming community filled with knuckle heads.
+textline: I'm Halping is a gaming community filled with knuckle heads who think they
+  are actually helping one another.
 hero_button:
   text: Learn more
   href: "/about"
