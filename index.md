@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/2018/11/29/Concrete.Precast Structural Concrete.Smooth.png"
 layout: post
 heading: I'm Halping!
 partners:
@@ -16,8 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: We Mean Well
-textline: " "
+sub_heading: ''
+textline: " We Mean Well"
 hero_button:
   text: Learn more
   href: "/about"
