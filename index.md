@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/uploads/2018/02/17/neurons.jpg"
-layout: landing-page
+layout: post
 heading: I'm Halping!
 partners:
 - "/uploads/2017/11/13/stem.png"
