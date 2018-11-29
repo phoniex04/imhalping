@@ -1,7 +1,7 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
-baseurl:
+title: I'm Halping!
+short_title: Halping!
+description: Gaming Community
+baseurl: www.imhalping.com
 permalink: "/:path/"
 defaults:
   - scope:
