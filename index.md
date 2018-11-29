@@ -26,6 +26,8 @@ show_staff: false
 description: ''
 publish_date: ''
 menu:
+  footer:
+    weight: 1
   navigation:
     identifier: _index
     weight: 1
