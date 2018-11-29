@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: We Mean Well
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: I'm Halping is a gaming community filled with knuckle heads.
 hero_button:
   text: Learn more
   href: "/about"
