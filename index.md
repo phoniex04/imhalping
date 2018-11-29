@@ -24,6 +24,8 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
+description: ''
+publish_date: ''
 menu:
   navigation:
     identifier: _index
